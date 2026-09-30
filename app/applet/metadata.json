@@ -1,0 +1,6 @@
+{
+  "name": "Smart Patient Health Monitoring System Using IoT",
+  "description": "A web-based IoT health monitoring dashboard for real-time tracking of patient vitals including Heart Rate, SpO2, Body Temperature, and Blood Pressure with live alerts, unit tests, error boundaries, and API/DB documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
